@@ -1,0 +1,6 @@
+{
+    "dotnet.defaultSolution": "GameStore.slnx",
+    "explorer.fileNesting.enabled": true,
+    "prisma-smart-formatter.typescript.defaultFormatter": "vscode.typescript-language-features",
+    "prisma-smart-formatter.prisma.defaultFormatter": "Prisma.prisma"
+}
